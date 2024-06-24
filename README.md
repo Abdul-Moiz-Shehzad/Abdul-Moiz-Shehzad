@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
-<p align="center">Currently pursuing a degree in Data Science. <br>
+<p>Currently pursuing a degree in Data Science. <br>
   Strong foundation in statistics, machine learning, and programming languages:<br>
   * Python (including pandas and scikit-learn etc)<br>
   * SQL, C++, and Assembly Language<br>
