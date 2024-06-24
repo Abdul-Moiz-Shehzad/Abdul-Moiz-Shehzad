@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
-<h3 align="center">Currently pursuing a degree in Data Science. Strong foundation in statistics, machine learning, and programming languages: * Python (including pandas and scikit-learn etc) * SQL, C++, and Assembly Language Specialize in: * Extracting actionable insights from complex datasets * Developing machine learning models * Utilizing tools like PySpark and Apache Hadoop for large-scale data processing Passionate about solving real-world problems through innovative data-driven solutions. Thrive in collaborative environments that value continuous learning and growth.</h3>
+<p align="center">Currently pursuing a degree in Data Science. Strong foundation in statistics, machine learning, and programming languages: * Python (including pandas and scikit-learn etc) * SQL, C++, and Assembly Language Specialize in: * Extracting actionable insights from complex datasets * Developing machine learning models * Utilizing tools like PySpark and Apache Hadoop for large-scale data processing Passionate about solving real-world problems through innovative data-driven solutions. Thrive in collaborative environments that value continuous learning and growth.</p>
 
 <p align="left">
 </p>
