@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
-<p>Currently pursuing a degree in Data Science. <br>
-  Strong foundation in statistics, machine learning, and programming languages:<br>
-  * Python (including pandas and scikit-learn etc)<br>
-  * SQL, C++, and Assembly Language<br>
-  Specialize in: <br>
-  * Extracting actionable insights from complex datasets <br>
-  * Developing machine learning models <br>
-  * Utilizing tools like PySpark and Apache Hadoop for large-scale data processing <br>
-  Passionate about solving real-world problems through innovative data-driven solutions. <br>
-  Thrive in collaborative environments that value continuous learning and growth.</p>
+<p>As an aspiring Data Scientist, I transform complex datasets into clear, impactful solutions.<br>
+With a solid foundation in Data Science, I am committed to mastering the technical skills and tools necessary to dissect and utilize data effectively. My toolkit includes robust coding skills in Python, with frameworks like Keras and OpenCV, alongside foundational knowledge in SQL, C++, and Assembly Language.<br>
+I am particularly drawn to projects that involve machine learning and have recently explored deep learning, NLP, and image processing to solve meaningful problems and make information accessible. My academic journey has equipped me with the knowledge and passion to leverage data to drive decision-making.<br>
+I thrive in environments that prioritize continuous growth and learning, where every dataset tells a story, and every model pushes boundaries. Each project I undertake not only enhances my understanding but also allows me to contribute positively to my team and the broader community.</p>
+
 
 <p align="left">
 </p>
